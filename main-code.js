@@ -1,1 +1,1 @@
-console.log("Hello! This is a small change in master")
+console.log("Hello! This the resolution for the conflict")
