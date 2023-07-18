@@ -1,1 +1,1 @@
-console.log("Hello! This is a checkpoint for git fundamentals at PS")
+console.log("Hello! This is a small change in master")
